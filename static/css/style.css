@@ -1,0 +1,61 @@
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+.logo{
+    margin: 0 auto;
+    text-align: center;
+    width: 250px;
+    margin-top: 150px;
+    border: 3px solid #222222;
+    border-radius:5px;
+}
+
+.logo:hover{
+    background: #222222;
+    color:white;
+}
+
+
+.description h4 {
+    margin-top: 100px;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    width: 300px;
+    height: 70px;
+    background: #9DE65B;
+    border-radius: 10px;
+    text-align: center;
+    line-height: 70px;
+}
+
+li>a{
+    display:block;
+    width: 300px;
+    height: 70px;
+    font-size: 24px;
+    font-weight: 700;
+    color:#999999;
+
+}
+
+li:hover{
+    background: #7DE65B;
+}
+li>a:hover{
+     color:#999999;
+}
+.buttons{
+     margin: 0 auto;
+    margin-top: 200px;
+    width: 645px;
+
+}
+
+.order_container{
+    width: 90%;
+
+    margin: 0 auto;
+}
